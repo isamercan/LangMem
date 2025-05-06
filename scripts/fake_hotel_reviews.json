@@ -1,0 +1,162 @@
+[
+  {
+    "hotel_id": "HTL001",
+    "hotel_name": "Seaside Resort",
+    "location": "Antalya",
+    "hotel_url": "https://example.com/seaside",
+    "comment": "The pool was dirty and towels were missing.",
+    "tags": ["pool", "cleanliness"]
+  },
+  {
+    "hotel_id": "HTL001",
+    "hotel_name": "Seaside Resort",
+    "location": "Antalya",
+    "hotel_url": "https://example.com/seaside",
+    "comment": "Breakfast was excellent and varied every day.",
+    "tags": ["breakfast"]
+  },
+  {
+    "hotel_id": "HTL001",
+    "hotel_name": "Seaside Resort",
+    "location": "Antalya",
+    "hotel_url": "https://example.com/seaside",
+    "comment": "Room was clean but WiFi was unstable at night.",
+    "tags": ["wifi", "room"]
+  },
+  {
+    "hotel_id": "HTL001",
+    "hotel_name": "Seaside Resort",
+    "location": "Antalya",
+    "hotel_url": "https://example.com/seaside",
+    "comment": "The air conditioning was noisy and old.",
+    "tags": ["air conditioning", "noise"]
+  },
+  {
+    "hotel_id": "HTL001",
+    "hotel_name": "Seaside Resort",
+    "location": "Antalya",
+    "hotel_url": "https://example.com/seaside",
+    "comment": "Perfect location, 2 minutes from the beach.",
+    "tags": ["location", "beach"]
+  },
+  {
+    "hotel_id": "HTL001",
+    "hotel_name": "Seaside Resort",
+    "location": "Antalya",
+    "hotel_url": "https://example.com/seaside",
+    "comment": "Staff was helpful and welcoming.",
+    "tags": ["staff"]
+  },
+  {
+    "hotel_id": "HTL001",
+    "hotel_name": "Seaside Resort",
+    "location": "Antalya",
+    "hotel_url": "https://example.com/seaside",
+    "comment": "Too many mosquitoes in the room.",
+    "tags": ["room", "bugs"]
+  },
+  {
+    "hotel_id": "HTL001",
+    "hotel_name": "Seaside Resort",
+    "location": "Antalya",
+    "hotel_url": "https://example.com/seaside",
+    "comment": "Check-in was fast and easy.",
+    "tags": ["check-in"]
+  },
+  {
+    "hotel_id": "HTL001",
+    "hotel_name": "Seaside Resort",
+    "location": "Antalya",
+    "hotel_url": "https://example.com/seaside",
+    "comment": "There was no hot water in the shower.",
+    "tags": ["bathroom", "water"]
+  },
+  {
+    "hotel_id": "HTL001",
+    "hotel_name": "Seaside Resort",
+    "location": "Antalya",
+    "hotel_url": "https://example.com/seaside",
+    "comment": "Children loved the small playground.",
+    "tags": ["family", "playground"]
+  },
+  {
+    "hotel_id": "HTL001",
+    "hotel_name": "Seaside Resort",
+    "location": "Antalya",
+    "hotel_url": "https://example.com/seaside",
+    "comment": "Parking was free but always full.",
+    "tags": ["parking"]
+  },
+  {
+    "hotel_id": "HTL001",
+    "hotel_name": "Seaside Resort",
+    "location": "Antalya",
+    "hotel_url": "https://example.com/seaside",
+    "comment": "The minibar was empty on arrival.",
+    "tags": ["minibar"]
+  },
+  {
+    "hotel_id": "HTL001",
+    "hotel_name": "Seaside Resort",
+    "location": "Antalya",
+    "hotel_url": "https://example.com/seaside",
+    "comment": "Noise from the bar lasted until 2am.",
+    "tags": ["noise", "bar"]
+  },
+  {
+    "hotel_id": "HTL001",
+    "hotel_name": "Seaside Resort",
+    "location": "Antalya",
+    "hotel_url": "https://example.com/seaside",
+    "comment": "View from the balcony was stunning.",
+    "tags": ["view", "balcony"]
+  },
+  {
+    "hotel_id": "HTL001",
+    "hotel_name": "Seaside Resort",
+    "location": "Antalya",
+    "hotel_url": "https://example.com/seaside",
+    "comment": "Air smelled of cleaning chemicals.",
+    "tags": ["smell"]
+  },
+  {
+    "hotel_id": "HTL001",
+    "hotel_name": "Seaside Resort",
+    "location": "Antalya",
+    "hotel_url": "https://example.com/seaside",
+    "comment": "Pool towels ran out every afternoon.",
+    "tags": ["pool", "towels"]
+  },
+  {
+    "hotel_id": "HTL001",
+    "hotel_name": "Seaside Resort",
+    "location": "Antalya",
+    "hotel_url": "https://example.com/seaside",
+    "comment": "They upgraded our room for free!",
+    "tags": ["room", "service"]
+  },
+  {
+    "hotel_id": "HTL001",
+    "hotel_name": "Seaside Resort",
+    "location": "Antalya",
+    "hotel_url": "https://example.com/seaside",
+    "comment": "Elevator was out of service one day.",
+    "tags": ["elevator"]
+  },
+  {
+    "hotel_id": "HTL001",
+    "hotel_name": "Seaside Resort",
+    "location": "Antalya",
+    "hotel_url": "https://example.com/seaside",
+    "comment": "Breakfast ends too early (9:30 AM).",
+    "tags": ["breakfast"]
+  },
+  {
+    "hotel_id": "HTL001",
+    "hotel_name": "Seaside Resort",
+    "location": "Antalya",
+    "hotel_url": "https://example.com/seaside",
+    "comment": "Fitness room was clean and well equipped.",
+    "tags": ["gym", "fitness"]
+  }
+]
