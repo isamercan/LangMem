@@ -39,3 +39,5 @@ build/
 # Test cache
 .cache/
 .pytest_cache/
+
+*.egg-info/
